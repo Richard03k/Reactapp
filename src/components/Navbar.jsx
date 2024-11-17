@@ -2,7 +2,6 @@ import React from "react";
 
 const Navbar = () => {
   return (
-    <body style={{overflow: 'hidden'}}>
       <div id="Navbar">
         <img src="images/solid.svg" id="siliLogo" />
         <p id="Features">Features</p>
@@ -17,7 +16,6 @@ const Navbar = () => {
           <p id="Login_text">Sing in / up</p>
         </div>
       </div>
-    </body>
   );
 };
 
