@@ -26,7 +26,7 @@ import Page6_div2 from './components/Page6_div2'
 import Page7_copy from './components/Page7_copy'
 import Page7_div1 from './components/Page7_div1'
 import Store from './components/Store'
-
+import Page6_API from './components/Page6_API'
 
 function App() {
 
@@ -72,6 +72,7 @@ function App() {
         <Page7_div1/>
         <Page7_copy/>
       </div>
+      <Page6_API/>
     </>
   )
 }
